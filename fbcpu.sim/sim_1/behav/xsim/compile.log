@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/maximp/VivadoProjects/fbcpu/fbcpu.srcs/sources_1/new/fpcpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_fb_cpu
+INFO: [VRFC 10-311] analyzing module blram
+INFO: [VRFC 10-311] analyzing module fb_cpu
